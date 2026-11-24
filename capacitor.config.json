@@ -1,0 +1,8 @@
+{
+  "appId": "br.edu.ifto.map",
+  "appName": "IFTO Map",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
